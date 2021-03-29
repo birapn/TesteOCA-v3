@@ -1,0 +1,16 @@
+# Logs
+logs
+*.log
+error_log
+
+# MacOS system files
+.DS_Store
+*.icloud
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+parametros.inc
